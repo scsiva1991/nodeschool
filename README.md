@@ -3,5 +3,6 @@ Lessons Covered From NodeSchool ( https://nodeschool.io/ )
 
 Core Workshops
 
-- Completed exercises from learnyounode
-- Basic Javascripting exercises - inprogress
+
+- Completed Basic Javascripting exercises - javascripting
+- Completed async in node js - learnyounode
